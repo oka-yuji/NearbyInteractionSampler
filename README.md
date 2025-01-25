@@ -8,3 +8,8 @@
 | Central | Peripheral |
 | -- | -- |
 | ![IMG_4725](https://github.com/user-attachments/assets/e0695583-4e7d-4e1c-aee9-57393d4ee50c) | ![IMG_0082](https://github.com/user-attachments/assets/66780216-fee4-4ada-9291-23a8baa84706) |
+
+## Other
+- Change the UUID if necessary
+
+[UUID Generator](https://www.uuidgenerator.net/)
